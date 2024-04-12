@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Something Cool XD.**
 
-- 🌱 I’m currently learning **Flutter and Machine Learning**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Javascript and React JS**
 
