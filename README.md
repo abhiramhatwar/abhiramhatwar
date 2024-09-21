@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhiramhatwar" alt="abhiramhatwar" /></a> </p>
 
-- 🔭 I’m currently working on **Something Cool XD.**
+- 🔭 I’m currently working on **Face Spoofing Detection in Biometric Authentication Systems**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Penetration testing**
 
-- 💬 Ask me about **Javascript and React JS**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **abhiramhatwar2003@gmail.com**
 
