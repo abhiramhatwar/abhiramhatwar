@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhiram Hatwar</h1>
-<h3 align="center">MERN Stack Developer | Sof
+<h3 align="center">MERN Stack Developer |
 Trellix | Ex-Infineon | Passionate about Deep Learning and Cybersecurity</h3>
 
 <p align="center">
